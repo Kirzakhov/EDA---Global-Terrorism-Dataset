@@ -1,6 +1,7 @@
 # EDA---Global-Terrorism-Dataset
 
 Introduction:
+
 The Global Terrorism Database (GTD) is an extensive dataset providing information on terrorist incidents worldwide. This readme file aims to provide an overview of the Exploratory Data Analysis (EDA) performed on the GTD.
 
 Dataset Overview:
