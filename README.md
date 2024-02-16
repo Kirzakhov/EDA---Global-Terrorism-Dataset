@@ -35,5 +35,4 @@ The EDA on the Global Terrorism Dataset aims to shed light on the complex phenom
 References:
 
 Global Terrorism Database (GTD)
-
 Kaggle - Global Terrorism Database
