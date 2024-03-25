@@ -19,7 +19,7 @@ The primary objectives of conducting EDA on the Global Terrorism Dataset are:
 **Methodology:**
 The EDA process involves the following steps:
 
-1.  Data Loading and Cleaning: Loading the dataset into a suitable environment (e.g., Python, R) and performing necessary data cleaning operations such as handling missing values, data type conversions, and removing duplicates.
+1.  Data Loading and Cleaning: Loading the dataset into a suitable environment (Python) and performing necessary data cleaning operations such as handling missing values, data type conversions, and removing duplicates.
 2.  Data Exploration: Exploring the dataset through statistical summaries, visualizations (e.g., histograms, bar plots, heatmaps), and geographical analysis (e.g., plotting incidents on maps).
 3.  Interpretation and Conclusion: Drawing conclusions from the analysis and providing insights into the nature and dynamics of global terrorism.
 
