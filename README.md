@@ -30,7 +30,7 @@ The EDA process involves the following steps:
 
 **Libraries Used:**
 
-<a href="https://numpy.org/" target="_blank"><img src="https://numpy.org/images/logo.svg" alt="Numpy" width="84" height="25"></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-blue?style=flat-square&logo=Numpy&logoColor=white&link=https://numpy.org" alt="Numpy" width="84" height="25"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=Pandas&logoColor=white&link=https://pandas.pydata.org" alt="Pandas" width="84" height="25"></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-afc6d3?style=flat-square&logo=matplotlib&logoColor=white&link=https://matplotlib.org/" alt="Matplotlib" width="78" height="25"></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-7db0bc?style=flat-square&logo=seaborn&logoColor=white&link=https://seaborn.pydata.org/" alt="Seaborn" width="65" height="25"></a>
