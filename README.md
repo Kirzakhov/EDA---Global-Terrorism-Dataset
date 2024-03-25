@@ -29,7 +29,7 @@ The EDA process involves the following steps:
 *  **Readme File**: Provides an overview of the EDA process and contents of the repository.
 
 **Libraries Used:**
-https://pypi.org/project/folium/
+*https://pypi.org/project/folium/*
 
 **Conclusion:**
 The EDA on the Global Terrorism Dataset aims to shed light on the complex phenomenon of terrorism and its impact on societies worldwide. By analyzing patterns and trends in terrorist incidents, we can better understand the factors contributing to terrorism and inform strategies for prevention and mitigation.
