@@ -36,6 +36,9 @@ The EDA process involves the following steps:
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-7db0bc?style=flat-square&logo=seaborn&logoColor=white&link=https://seaborn.pydata.org/" alt="Seaborn" width="65" height="25"></a>
 <a href="https://pypi.org/project/folium/" target="_blank"><img src="https://img.shields.io/badge/folium-00aa54?style=flat-square&logo=folium&logoColor=white&link=https://pypi.org/project/folium/" alt="folium" width="75" height="25"></a>
 <a href="https://plotly.com/python/" target="_blank"><img src="https://img.shields.io/badge/plotly-black?style=flat-square&logo=plotly&logoColor=white&link=https://plotly.com/python/" alt="plotly" width="70" height="25"></a>
+<a href="https://pypi.org/project/gdown/" target="_blank"><img src="https://img.shields.io/badge/gdown-grey?style=flat-square&logo=gdown&logoColor=white&link=https://pypi.org/project/gdown/" alt="gdown" width="84" height="25"></a>
+<a href="https://docs.python.org/3/library/datetime.html" target="_blank"><img src="https://img.shields.io/badge/datetime-orange?style=flat-square&logo=datetime&logoColor=white&link=https://docs.python.org/3/library/datetime.html" alt="datetime" width="84" height="25"></a>
+<a href="https://docs.python.org/3/library/statistics.html" target="_blank"><img src="https://img.shields.io/badge/statistics-cyan?style=flat-square&logo=statistics&logoColor=white&link=https://docs.python.org/3/library/statistics.html" alt="statistics" width="84" height="25"></a>
 
 **Conclusion:**
 The EDA on the Global Terrorism Dataset aims to shed light on the complex phenomenon of terrorism and its impact on societies worldwide. By analyzing patterns and trends in terrorist incidents, we can better understand the factors contributing to terrorism and inform strategies for prevention and mitigation.
